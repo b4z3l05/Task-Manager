@@ -1,0 +1,4 @@
+Assignment 1,Computer Science,2026-05-15,5,6,false
+Stats Revision,STA3030F,2026-05-12,4,6,true
+Database Prep,Information Systems,2026-05-18,4,5,false
+Math Revision,Statistics,2026-05-12,3,3,true
